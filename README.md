@@ -7,7 +7,11 @@
 - Soham Patel (24M0746)
 
 `cleanup.ipynb` => contains code to clean up the data reduce the size of the dataset
+
 `content_based.ipynb` => contains code for content-based recommendation model
+
 `collaborative.ipynb` => contains code for collaborative recommendation model
+
 `hybrid.ipynb` => contains code for hybrid recommendation model
+
 `network.py` => contains code for the neural network recommendation model
